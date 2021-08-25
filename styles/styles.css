@@ -32,4 +32,13 @@ h1 {
 footer {
     background-color: #FAF0EA;
     padding: 10px;
+}  
+
+.animals img { 
+    border: solid black 3px;
+    object-fit: cover;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    margin: 20px;
 }
